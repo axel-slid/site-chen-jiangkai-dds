@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.vercel/
+.DS_Store
+*.log
+agent-status.json
+codex-prompt.md
+lead.json
+run-codex-site-agent.sh
