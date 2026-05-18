@@ -33,5 +33,6 @@ Chen Jiangkai DDS has strong public signals for a phone-ready local dental pract
 
 ## Deployment
 
-- GitHub repo: Pending push.
-- Vercel URL: Pending deployment.
+- GitHub repo: https://github.com/axel-slid/site-chen-jiangkai-dds
+- Vercel URL: Not deployed by this agent because the `vercel` CLI was not found on `PATH`, so a non-interactive `vercel whoami` auth check could not succeed.
+- Manual deployment steps: see `DEPLOYMENT_INSTRUCTIONS.md`.
