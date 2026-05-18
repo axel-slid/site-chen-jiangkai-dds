@@ -18,8 +18,9 @@
 
 ## Hours
 
-- Directory-listed hours used on preview: Tue-Sat, 9:00 AM-6:00 PM.
-- Office should confirm the current schedule before final launch because public directory hours can drift.
+- Hours status on preview: call to confirm current hours.
+- Public directory listings conflict: Yibada lists Tue-Sat, 9:00 AM-6:00 PM; CMac lists Mon-Fri, 9:00 AM-5:00 PM and Saturday closed.
+- Office should confirm the current schedule before final launch.
 
 ## Outreach Angle
 

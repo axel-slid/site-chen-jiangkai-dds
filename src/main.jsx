@@ -26,8 +26,9 @@ const lead = {
   city: "Milpitas, CA 95035",
   rating: "4.7",
   reviewCount: "20",
-  hours: "Tue-Sat, 9:00 AM-6:00 PM",
-  hoursNote: "Directory-listed hours; call the office to confirm the current schedule.",
+  hours: "Call to confirm current hours",
+  hoursNote:
+    "Public listings vary: one directory lists Tue-Sat 9:00 AM-6:00 PM; another lists Mon-Fri 9:00 AM-5:00 PM.",
   googleMaps:
     "https://maps.google.com/?cid=7530102369688820757&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   yelp: "https://www.yelp.com/biz/jiangkai-chen-dds-milpitas",

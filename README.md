@@ -19,7 +19,7 @@ npm run dev
 
 - Public facts used: business name, category, phone, address, Google rating/review count, Google Maps URL, and the no-website signal from Google Place Details.
 - Yelp URL included after corroborating the direct Yelp page through live web search and matching directory references.
-- Hours are marked as directory-listed and should be confirmed by the office before final publication.
+- Hours are marked as confirmation-needed because public directory listings conflict.
 - Service categories are intentionally labeled as editable placeholders.
 
 ## Deploy
